@@ -87,8 +87,7 @@ Image name should be the person’s name
 
 Example:
 
-Anav.jpg
-Rahul.png
+name.jpg
 
 4️⃣ Run the Program
 python main.py
